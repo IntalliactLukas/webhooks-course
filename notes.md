@@ -51,6 +51,8 @@ In this unit we'll take a look at a specific Webhook implementations [GitHub](ht
 ### Video 2 - Explore the Request
 
 * [Beeceptor](https://beeceptor.com)
+* [Beeceptor](https://beeceptor.com/console/awsomeness) -> my trial for github webhook (star)
+* [Discord](https://discord.com/) --> Server to create endpoint/ webhook handler 
 
 #### 📚 Learn more
 * [🎮 TwilioQuest - The Flame of Open Source - Learn to use GitHub](https://www.twilio.com/quest/learn/open-source?utm_source=freecodecamp&utm_medium=github&utm_campaign=webhooks)
